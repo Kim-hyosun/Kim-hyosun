@@ -12,7 +12,7 @@
 
 📙 Blog : [공부기록 & 끙끙거린흔적 보기](https://jireh-muze.tistory.com/)<br>
 
-📘 Notion : [프로젝트수행과정보고서 첫 페이지 보기: 포트폴리오제작일지](https://organized-panama-944.notion.site/Portfolio-11abb50dd07b4b5aa348c80d7b762f9f)
+📘 Notion : [프로젝트 수행 과정 보고서 목록 바로가기](https://organized-panama-944.notion.site/c7b89ac10b63471aac8af7af201b73c0)
 
 <br>
 
