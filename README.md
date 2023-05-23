@@ -10,9 +10,9 @@
 
 📗 Email : jirehmuze@gmail.com <br>
 
-📙 Blog : [공부기록 & 끙끙거린흔적 보기](https://jireh-muze.tistory.com/){: target="_blank"}<br>
+📙 Blog : [공부기록 & 끙끙거린흔적 보기](https://jireh-muze.tistory.com/)<br>
 
-📘 Notion : [프로젝트 수행 과정 보고서 목록 바로가기](https://organized-panama-944.notion.site/c7b89ac10b63471aac8af7af201b73c0){: target="_blank"}
+📘 Notion : [프로젝트 수행 과정 보고서 목록 바로가기](https://organized-panama-944.notion.site/c7b89ac10b63471aac8af7af201b73c0)
 
 <br>
 
@@ -52,8 +52,8 @@
 
 # 🚀 Getting Started
 
-### [포트폴리오 바로가기](https://kim-hyosun.github.io/Portfolio/){: target="_blank"}
+### [포트폴리오 바로가기](https://kim-hyosun.github.io/Portfolio/)
 
-### [날씨 웹 바로가기](https://kim-hyosun.github.io/weather/){: target="_blank"}
+### [날씨 웹 바로가기](https://kim-hyosun.github.io/weather/)
 
-### [도서 검색 및 내 책 저장 웹 바로가기](https://kim-hyosun.github.io/bookDiary/#/book){: target="_blank"}
+### <a href="https://kim-hyosun.github.io/bookDiary/#/book" target="_blank">도서 검색 및 내 책 저장 웹 바로가기</a>
