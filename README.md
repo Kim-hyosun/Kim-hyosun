@@ -57,6 +57,9 @@
 
 <br>
 
+# ✨ certificate
+### 정보처리기사 Engineer Information Processing ( 한국산업인력공단, 2024.06.18 )
+
 <!-- # ✨ Features
 
 
