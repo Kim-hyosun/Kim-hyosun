@@ -92,7 +92,7 @@
 
 # 🚀 개인 프로젝트 바로보기
 
-#### [포트폴리오 바로가기](https://kim-hyosun.github.io/Portfolio/)
+#### [포트폴리오 바로가기 (데스크탑 전용)](https://portfolio-new-dusky-theta.vercel.app/)
 
 ### NEXT.JS프로젝트
 #### <a href="https://next-js-practice-messageboard.vercel.app/" target="_blank">[Next.js | SSR] 누구나 읽고 쓸 수 있는 게시판 바로가기</a>
