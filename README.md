@@ -96,7 +96,8 @@
 
 ### NEXT.JS프로젝트
 #### <a href="https://next-js-practice-messageboard.vercel.app/" target="_blank">[Next.js | SSR] 누구나 읽고 쓸 수 있는 게시판 바로가기</a>
-#### <a href="https://monorepo-project-ai-kwater.vercel.app/" target="_blank">[Next.js | monorepo | msw] 수자원 관제 사이트 mockdata로 바로보기</a>
+#### <a href="https://hyo-manager-drab.vercel.app/" target="_blank">[Next.js | CSR | RollBased admin] mockdata로 admin 사이트 바로보기</a>
+#### <a href="https://monorepo-project-ai-kwater.vercel.app/" target="_blank">[Next.js | monorepo | msw] 자원 관제 사이트 mockdata로 바로보기</a>
 #### <a href="https://monorepo-saju-hskim.vercel.app/" target="_blank">[Next.js | monorepo] 재미로 보는 사주 사이트 바로가기</a>
 #### <a href="https://next-js-practice-seven-black.vercel.app/" target="_blank">[Next.js | SSR] 익명 게시판 바로가기</a>
 
